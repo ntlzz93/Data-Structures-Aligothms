@@ -1,0 +1,6 @@
+﻿Source.obj : error LNK2019: unresolved external symbol "public: __thiscall LList<int>::LList<int>(void)" (??0?$LList@H@@QAE@XZ) referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol "public: void __thiscall LList<int>::insert(int,int)" (?insert@?$LList@H@@QAEXHH@Z) referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol "public: void __thiscall LList<int>::initialization_arrays(void)" (?initialization_arrays@?$LList@H@@QAEXXZ) referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol "public: void __thiscall LList<int>::retreive(int,int &)" (?retreive@?$LList@H@@QAEXHAAH@Z) referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol "public: void __thiscall LList<int>::print(void)" (?print@?$LList@H@@QAEXXZ) referenced in function _main
+E:\Tin\Data Structer\list_template\Debug\list_template.exe : fatal error LNK1120: 5 unresolved externals
